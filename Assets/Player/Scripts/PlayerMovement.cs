@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     public float dashSpeed = 200f;
     public float startDashTime = 5f;
     public float dashTime;
-    public characterController2D controller;
+    public CharacterController2D controller;
 
     // Jump
     public bool isGrounded;
