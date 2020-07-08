@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Zol's Folder/UI.unity
+    guid: f4ff4e50d6091c641ba8ae697a6c5736
   m_configObjects: {}
